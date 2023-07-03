@@ -1,0 +1,25 @@
+Premium V1 Users don't have to join the group to use the script, they get a cool emoji ingame. That's why this one is only 200 robux.
+
+Premium V2 Users get a star emoji ingame, they can use premium commands on V1 users, and other people using the script, they dont have to join the group. 400 Robux. 
+
+Premium V3 Users can use premium commands on premium V2, V1, And other users. They also get access to a lock vault, Roblox studio leaks, Roblox Audios. They also don't get their username logged,
+They don't have to join the group, They get a blush emoji ingame, (for other users of the script of course.) They literally cannot get commands used on them, and they can use all the features.
+
+# Premium Commands
+
+:BRING {PLAYER}
+:FREEZE {PLAYER} 
+OR 
+:THAW{PLAYER}
+:KICK {PLAYER}
+:BAN {PLAYER} | NOT AN ACTUAL BAN ITS A TROLL BAN
+:KILL {PLAYER}
+:REFRESH {PLAYER}
+:FLING {PLAYER}
+:BENX {PLAYER} OR :UNBENX {PLAYER} | F*CKS THEM
+
+(By the way, if you buy multiple premiums, you get multiple emojis too. like when you get all of the premiums, you get all 3 emojis at the same time.)
+
+Non premium users I'm sorry. You might get tormented and everything, BUT, we have cheap premium :blush: .
+
+(I'm gonna add HWID whitelist soon so you can use premium on multiple accounts but on that one computer.)
